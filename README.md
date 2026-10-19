@@ -4,7 +4,9 @@ Código, resultados y anotaciones del artículo:
 
 > J. Avendaño Castro, S. Llacsahuache Ortiz, G. Calderón Chávez, J. Alcalde Tirado y L. E. Acosta Medina, «Modelo bioinspirado en el circuito de escape de *Drosophila melanogaster* para la detección de colisiones en el transporte público de Lima», enviado a ICSIC 2026.
 
-DOI de este repositorio: [COMPLETAR tras publicar la versión en Zenodo]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23485345.svg)](https://doi.org/10.5281/zenodo.23485345)
+
+DOI de este repositorio: https://doi.org/10.5281/zenodo.23485345
 
 *English summary:* code and data for a collision detector built on the architecture of the Drosophila LPLC2–giant fiber escape pathway, with weights derived from the FlyWire v783 connectome, compared with an LGMD model, an optical-flow time-to-contact baseline and a flyvis-based variant in a 2D traffic simulation of Lima, real dashcam video and a semi-synthetic approach test.
 
