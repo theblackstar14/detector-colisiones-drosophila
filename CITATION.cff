@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si usas este software o sus datos, cítalo así."
+title: "Detector de colisiones bioinspirado en el circuito de escape de Drosophila melanogaster: código, datos y anotaciones"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/theblackstar14/detector-colisiones-drosophila"
+keywords: [bioinspiración, conectoma, detección de colisiones, Drosophila melanogaster, LPLC2, LGMD, transporte público, Lima]
+authors:
+  - family-names: "Avendaño Castro"
+    given-names: "Jesús"
+    affiliation: "Universidad Científica del Sur"
+  - family-names: "Llacsahuache Ortiz"
+    given-names: "Steffano"
+    affiliation: "Universidad Científica del Sur"
+  - family-names: "Calderón Chávez"
+    given-names: "Gabriel"
+    affiliation: "Universidad Científica del Sur"
+    orcid: "https://orcid.org/0009-0007-5852-0024"
+  - family-names: "Alcalde Tirado"
+    given-names: "José"
+    affiliation: "Universidad Científica del Sur"
+  - family-names: "Acosta Medina"
+    given-names: "Luis Enrique"
+    affiliation: "Universidad Científica del Sur"

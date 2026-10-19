@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+resultados/simulacion/corridas/
+clips_v2/
+*.mp4
+!video/panel_prueba.mp4
+salida_*/

@@ -1,0 +1,45 @@
+{
+ "video": "surco.mp4",
+ "fov_grados": 70.0,
+ "inicio_s": 125.0,
+ "duracion_s": 1064.2,
+ "cuadros": 31925,
+ "latencia_ms": {
+  "M1_LGMD": {
+   "media": 0.22,
+   "p95": 0.31,
+   "max": 6.75
+  },
+  "M2_1.25": {
+   "media": 2.5,
+   "p95": 3.89,
+   "max": 21.55
+  },
+  "M2.1_5.0": {
+   "media": 1.2,
+   "p95": 1.92,
+   "max": 11.99
+  },
+  "total": {
+   "media": 4.46,
+   "p95": 6.58,
+   "max": 35.86
+  }
+ },
+ "tiempo_real": true,
+ "alarmas": {
+  "M1_LGMD": {
+   "episodios": 0,
+   "por_minuto": 0.0
+  },
+  "M2_1.25": {
+   "episodios": 15,
+   "por_minuto": 0.85
+  },
+  "M2.1_5.0": {
+   "episodios": 23,
+   "por_minuto": 1.3
+  }
+ },
+ "nota": "Umbrales congelados de la simulación; no se recalibró nada."
+}
