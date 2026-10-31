@@ -1,18 +1,25 @@
 {
  "title": "Detector de colisiones bioinspirado en el circuito de escape de Drosophila melanogaster: código, datos y anotaciones",
  "upload_type": "software",
- "version": "1.0.0",
+ "version": "1.1.0",
  "license": "MIT",
  "language": "spa",
- "description": "<p>Código, resultados y anotaciones del artículo «Modelo bioinspirado en el circuito de escape de <i>Drosophila melanogaster</i> para la detección de colisiones en el transporte público de Lima» (ICSIC 2026). Incluye el simulador 2D de tránsito, los detectores M1 (LGMD), M2/M2.1 (LPLC2 con pesos derivados del conectoma FlyWire v783 y regla de rumbo), la integración con flyvis (M3), la línea base τ, la ablación de pesos, el procesamiento de video real con umbrales congelados, la prueba semisintética y las anotaciones de la doble revisión ciega de 28 alarmas.</p>",
+ "description": "<p>Código, resultados y anotaciones del artículo «A Bio-Inspired Model of the <i>Drosophila melanogaster</i> Escape Circuit for Collision Detection: An Evaluation in Simulation and Real Driving Video from Lima» (ICSIC 2026). Incluye el simulador 2D de tránsito, los detectores M1 (LGMD), M2/M2.1 (LPLC2 con pesos derivados del conectoma FlyWire v783 y regla de rumbo), la integración con flyvis (M3), la línea base τ, la ablación de pesos y la prueba de equivalencia, el procesamiento con umbrales congelados de dos videos reales de Lima (auto particular y cabina de un bus del Metropolitano), la prueba semisintética con IC por tramo y las anotaciones de la doble revisión ciega de las alarmas de ambos videos.</p><p>Versión 1.1.0: añade la prueba piloto con video del bus del Metropolitano, su doble revisión, la prueba de equivalencia de pesos, los IC por tramo y el análisis de tramos comunes de la prueba semisintética, y la comprobación de selectividad con pesos uniformes.</p>",
  "creators": [
   {
+   "name": "Acosta Medina, Luis Enrique",
+   "affiliation": "Universidad Científica del Sur",
+   "orcid": "0000-0002-0477-0657"
+  },
+  {
    "name": "Avendaño Castro, Jesús",
-   "affiliation": "Universidad Científica del Sur"
+   "affiliation": "Universidad Científica del Sur",
+   "orcid": "0009-0007-4783-8731"
   },
   {
    "name": "Llacsahuache Ortiz, Steffano",
-   "affiliation": "Universidad Científica del Sur"
+   "affiliation": "Universidad Científica del Sur",
+   "orcid": "0009-0001-0591-9505"
   },
   {
    "name": "Calderón Chávez, Gabriel",
@@ -21,11 +28,8 @@
   },
   {
    "name": "Alcalde Tirado, José",
-   "affiliation": "Universidad Científica del Sur"
-  },
-  {
-   "name": "Acosta Medina, Luis Enrique",
-   "affiliation": "Universidad Científica del Sur"
+   "affiliation": "Universidad Científica del Sur",
+   "orcid": "0009-0006-8345-1377"
   }
  ],
  "keywords": [
@@ -37,6 +41,8 @@
   "LGMD",
   "FlyWire",
   "transporte público",
-  "Lima"
+  "Lima",
+  "asistencia a la conducción",
+  "Metropolitano"
  ]
 }

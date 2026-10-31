@@ -1,0 +1,25 @@
+evento,tiempo_video,causa_revisor_1,confianza_1,causa_revisor_2,confianza_2,causa_consenso,nota_r1,nota_r2
+1,4:13.5,A,baja,A,alta,A,Peatón de traje junto a la reja del borde derecho que crece entre −1 s y la alarma; no queda claro si entra al carril. La camioneta de adelante se aleja.,Peatón caminando pegado al borde derecho del carril.
+2,6:21.0,A,alta,A,alta,A,Moto de policía que entra desde la derecha y cruza delante del bus hacia el centro (moto).,Moto ingresa al carril por la derecha y se coloca delante.
+3,8:54.0,A,alta,A,alta,A,"Moto con dos ocupantes que cruza por el centro-derecha y crece mucho; también un ciclista a la izquierda (moto, ciclista).",Moto cruzando transversalmente por la intersección.
+4,9:09.3,F,media,F,media,F,"Las letras «BUS SOLO» pintadas en la pista se agrandan hacia +0,5 s. También crecen vendedores, rejas y gente en la vereda (C), pero F tiene prioridad.",Paso peatonal en la vía.
+5,9:14.4,C,alta,C,alta,C,"Árbol, bancas, postes con cadenas y peatones en la vereda crecen solo por el avance. Moto lejana sin relevancia.",Árboles y bolardos al borde derecho de la vía.
+6,9:20.9,A,baja,A,alta,A,"Peatones en la esquina; un hombre se acerca por la derecha en −0,5 s y otro en la alarma. Hay un ligero giro a la derecha (D), pero A tiene prioridad (peatón).",Peatón con polo negro al borde de la trayectoria
+7,9:36.4,C,media,C,alta,C,"Postes con cadenas, árbol, bicicleta y persona detrás de la reja en la vereda; no invaden el carril del bus.","Árbol, bolardos y bicicleta fija al costado derecho de la calzada."
+8,9:45.0,F,media,E,alta,F,"La flecha y «SOLO BUS» pintados en la pista se agrandan. Moto/reparto al borde derecho en la vereda, sin invadir.",Marcas viales grandes en el piso.
+9,9:49.1,C,alta,C,alta,C,"Árbol, banca, postes con cadenas y persona sentada al borde derecho; nada cruza.","Árbol, bolardos y una banca al borde derecho."
+10,9:54.8,F,baja,E,media,F,"Letras «SOLO BUS» pintadas que crecen al final. También semáforo, cartel y peatones esperando en la vereda (C); peatón cruzando en −1 s ya quedó atrás.",Entrada a desnivel subterráneo.
+11,10:00.9,B,alta,B,alta,B,Bus articulado en el carril contiguo (en sentido contrario) que pasa pegado al borde izquierdo de la imagen sin invadir la trayectoria.,Bus del Metropolitano en sentido contrario pasa pegado.
+12,10:04.8,E,alta,E,alta,E,Entrada al túnel: pasa de plena luz a casi oscuridad (cambio brusco de exposición).,Transición de luz exterior a oscuridad al ingresar al túnel.
+13,10:21.7,E,media,D,media,D,Interior del túnel con luz anaranjada y columnas al borde; el cambio de iluminación domina. Posible curva suave a la izquierda (D).,Inicio de curva a la derecha.
+14,10:24.1,D,alta,D,alta,D,Curva a la izquierda dentro del túnel: toda la escena se desplaza y las columnas giran en arco.,Continuidad de curva cerrada hacia la derecha.
+15,10:26.2,D,media,D,media,D,"Continúa la curva a la izquierda. Auto blanco en otra vía, detrás de las columnas, sin acercarse al borde.",Curva sostenida a la derecha. Auto visible en vía contigua.
+16,10:35.0,E,alta,E,alta,E,Salida del túnel: sobreexposición blanca y cambio brusco de luz.,Salida del túnel subterráneo a cielo abierto.
+17,11:56.2,B,alta,B,alta,B,"Autos y taxis en el carril vecino (tráfico lento) pegados al borde derecho, al otro lado del separador amarillo.",Camioneta contigua en el carril vecino.
+18,12:48.4,B,alta,E,alta,B,"Camioneta blanca y SUV roja en el carril vecino, al otro lado del separador; la blanca ocupa el borde derecho al pasar.",Ingreso bajo el puente con sombra pronunciada.
+19,12:53.8,E,media,E,alta,E,Salida de zona techada con sobreexposición en −1 s y cambio de luz. Columna de la estación al borde derecho (C) y autos lejanos de la vía vecina.,Salida del puente hacia luz solar directa.
+20,13:36.1,E,baja,E,alta,E,"Se acerca a un puente/paso a desnivel con sombra y cambio de luz. Estación, escalera y columnas al borde también crecen (C).",Entrada bajo el puente con transición de sombra.
+21,13:47.2,C,alta,D,alta,C,"Estación Plaza de Flores, arbustos y barandas amarillas al borde que crecen solo por el avance.",Curva hacia la derecha bordeando la estructura de la estación.
+22,13:57.4,B,alta,B,alta,B,"Bus articulado en el carril contiguo, tras la reja amarilla, que pasa pegado al borde izquierdo.",Bus en sentido contrario pasa pegado por el carril contiguo.
+23,14:10.4,C,alta,C,alta,C,"Estación Bulevar, barandas, bolardos y árboles al borde que crecen por el avance; sin vehículos relevantes.",Estructura fija del paradero y en el borde izquierdo.
+24,14:43.3,B,media,B,alta,B,"Bus articulado en sentido contrario por el carril vecino, entre las rejas amarillas; ocupa el lado izquierdo al pasar, sin invadir la trayectoria.",Bus en sentido contrario cruzando pegado por el carril vecino.

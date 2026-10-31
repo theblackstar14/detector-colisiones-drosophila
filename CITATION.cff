@@ -1,34 +1,29 @@
-cff-version: 1.2.1
+cff-version: 1.2.0
 message: "Si usas este software o sus datos, cítalo así."
 title: "Detector de colisiones bioinspirado en el circuito de escape de Drosophila melanogaster: código, datos y anotaciones"
-version: 1.0.0
-date-released: 2026-10-20
+version: 1.1.0
+date-released: 2026-10-31
 license: MIT
 repository-code: "https://github.com/theblackstar14/detector-colisiones-drosophila"
-keywords: [bioinspiración, conectoma, detección de colisiones, Drosophila melanogaster, LPLC2, LGMD, transporte público, Lima]
+keywords: [bioinspiración, conectoma, detección de colisiones, Drosophila melanogaster, LPLC2, LGMD, transporte público, asistencia a la conducción, Metropolitano, Lima]
 authors:
-  - family-names: "Calderón Chávez"
-    given-names: "Gabriel"
+  - family-names: "Acosta Medina"
+    given-names: "Luis Enrique"
     affiliation: "Universidad Científica del Sur"
-    email: "100120063@cientifica.edu.pe"
-    orcid: "https://orcid.org/0009-0007-5852-0024"
+    orcid: "https://orcid.org/0000-0002-0477-0657"
   - family-names: "Avendaño Castro"
     given-names: "Jesús"
     affiliation: "Universidad Científica del Sur"
-    email: "100112981@cientifica.edu.pe"
     orcid: "https://orcid.org/0009-0007-4783-8731"
   - family-names: "Llacsahuache Ortiz"
     given-names: "Steffano"
     affiliation: "Universidad Científica del Sur"
-    email: "100122388@cientifica.edu.pe"
     orcid: "https://orcid.org/0009-0001-0591-9505"
+  - family-names: "Calderón Chávez"
+    given-names: "Gabriel"
+    affiliation: "Universidad Científica del Sur"
+    orcid: "https://orcid.org/0009-0007-5852-0024"
   - family-names: "Alcalde Tirado"
     given-names: "José"
     affiliation: "Universidad Científica del Sur"
-    email: "100124471@cientifica.edu.pe"
     orcid: "https://orcid.org/0009-0006-8345-1377"
-  - family-names: "Acosta Medina"
-    given-names: "Luis Enrique"
-    affiliation: "Universidad Científica del Sur"
-    email: "lacostam@cientifica.edu.pe"
-    orcid: "https://orcid.org/0000-0002-0477-0657"

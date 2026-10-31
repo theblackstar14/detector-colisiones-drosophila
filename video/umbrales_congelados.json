@@ -14,5 +14,13 @@
  "M2.1_5.0": {
   "T": 0.012493219689759747,
   "eps": 10.0
+ },
+ "M2.1_1.25": {
+  "T": 0.04679129604743574,
+  "eps": 5.0
+ },
+ "_notas": {
+  "eps": "deriva máxima del rumbo en grados por segundo, medida sobre una ventana de 0,3 s (models/rumbo.py)",
+  "M3": "umbral y configuración congelados de M3 en m3_flyvis/congelado_M3.json"
  }
 }
